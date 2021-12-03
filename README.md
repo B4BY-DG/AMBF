@@ -18,7 +18,7 @@
 
 ● pip2 install ipaddress
 
-● git clone https://github.com/THE-DEMON-ANNOS/AMBF
+● git clone https://github.com/THE-DEMON-ANNOS/AMBF.git
 
 ● cd AMBF
 
